@@ -1,0 +1,22 @@
+.seasons {
+    margin-bottom: 80px;
+}
+
+.seasons__title {
+    margin-bottom: 30px;
+}
+
+.seasons__list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 380px;
+    grid-template-rows: 330px 160px;
+    gap: 20px;
+}
+
+.seasons__item--size-col-m {
+    grid-column: span 2;
+}
+
+.seasons__item--size-row-m {
+    grid-row: span 2;
+}

@@ -1,0 +1,10 @@
+.tours__list {
+    display: grid;
+    grid-template-columns: 380px 1fr 380px;
+    gap: 20px;
+    margin-bottom: 60px;
+}
+
+.tours__item--size-xl {
+    grid-column: span 2;
+}

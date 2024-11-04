@@ -1,0 +1,35 @@
+.banner {
+    display: flex;
+    background: linear-gradient(87.12deg, #5839B0 1.65%, #4162B8 100%);
+    padding: 30px 30px 20px;
+    border-radius: 24px;
+    color: #fff;
+    height: 100%;
+}
+
+.banner__wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.banner__text {
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+}
+
+.banner__bottom {
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: auto;
+}
+
+.banner__link {
+    color: inherit;
+}
+
+.banner__img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}

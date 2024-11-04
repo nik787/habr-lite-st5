@@ -1,0 +1,19 @@
+.title {
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    color: #9e5fc4;
+    font-weight: 700;
+}
+
+
+.title span {
+    color: #242424;
+    font-weight: 400;
+}
+
+.title--h2 {
+    font-size: 36px;
+    line-height: 40px;
+    color: #242424;
+}
